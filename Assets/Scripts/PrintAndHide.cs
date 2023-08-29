@@ -11,7 +11,7 @@ public class PrintAndHide : MonoBehaviour
     void Start()
     {
         count = 3;
-        random = Random.Range(150, 250);
+        random = Random.Range(150, 251);
     }
 
     // Update is called once per frame
